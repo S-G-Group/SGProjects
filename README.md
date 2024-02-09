@@ -1,1 +1,2 @@
 # SGprojects
+Github is amazing
