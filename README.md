@@ -1,3 +1,3 @@
 # SGprojects
-Github is amazing
+Github is amazing!
 Hello Everyone
